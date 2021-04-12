@@ -1,4 +1,6 @@
-## What is the difference between push, pull, and fetch?
+# Understanding the `git` Push, Pull, and Fetch Commands
+
+The concepts in this article can help you understand how the `git push`, `git pull`, and `git fetch` commands update your local and remote source control repositories.
 
 - `git push` - sent changes from a local branch to a remote repo
 - `git fetch` - get changes from a remote repo into your tracking branch
