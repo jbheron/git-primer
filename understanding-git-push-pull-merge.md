@@ -1,4 +1,4 @@
-# Understanding the `git` Push, Pull, and Fetch Commands
+# Understanding the `git` Push, Fetch, and Pull Commands
 
 The concepts in this article can help you understand how the `git push`, `git pull`, and `git fetch` commands update your local and remote source control repositories:
 
